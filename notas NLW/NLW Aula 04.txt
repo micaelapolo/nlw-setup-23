@@ -1,0 +1,22 @@
+NLW AULA 04 - PROFISSIONALIZANDO O PROJETO
+-------------------------------------------
+addDay("date") = adiciona o dia escolhido ali
+.
+if() = condicional, sem elas a programação não exixstiria
+.
+
+return = faz a função parar...?
+.
+
+new Date().toLocaleDateString('pt-br') = mostra a data de hoje
+.
+
+slice() = recorta umas parada aí em strings cortando caractere por caractere
+.
+
+localStorage.setItem('') = armazena dados no browser
+.
+
+addEventListener("click") & ("change") = evento de clique e evento de mudança de formulário, respectivamente
+.
+

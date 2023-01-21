@@ -1,0 +1,35 @@
+NLW AULA 03 - O PODER DO JAVASCRIPT
+------------------------------------
+const mensagem = "mensagem ak" = constante, armazena um valor que n pode ser mudado
+alert(mensagem) = exibe a nossa variável mensagem como alerta
+.
+
+variável = uma caixinha onde guardamos um tipo de dado para usar mais tarde (textos, números, booleanos (v ou f))
+sempre que usar uma função coloque () após
+.
+
+no JS tudo é objeto //lembre-se
+.
+let = variável, armazena um valor que pode ser alterado dps
+.
+
+data-name="seila" = nomeia uma classe
+.
+
+position: fixed; = fixa o elemento do seletor escolhido
+.
+
+widht: fit-content; = se eu entendi bem ele alinha o elemento deixando uma margem, sla (encaixa o conteúdo na largura)
+.
+
+@media (max-widht: 600px) { 
+	button div {
+		display: none;
+	}
+} = responsividade, a mesma lógica das imagens dinâmicas só que com caixas agr (divs)
+.
+
+set.Data() = acho que seleciona uma constante
+.
+
+load() = acho que faz o código js rodar

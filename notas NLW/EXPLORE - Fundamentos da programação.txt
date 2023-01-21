@@ -1,0 +1,36 @@
+Dados
+--------------------------------------------------------------
+string= sequência de caracteres
+boleano= verdadeiro ou falso
+.
+HTTP= Hypertext Transfer Protocol
+função= trocar mensagens entre computadores
+a mensagem é quebrada em diversos pedaços (chunks)
+.
+URL= Uniform Resource Locator
+localizador e identificador de um recurso
+.
+TCP= Transmition Control Protocol
+Função= garantir de os pacotes cheguem corretamente ao destino
+.
+IP= internet Protocol
+função= endereçamento dos computadores
+.
+DNS= Domain Name Servers
+função= converter URL em endereço IP
+.
+proxy= qualquer dispositivo no meio do caminho 
+Função= encaminhamento dos pacotes
+.
+.
+Hardware= parte física dos computer
+.
+Software= parte intangível, (programas, apps...)
+.
+Firmware= basicamente um software integrado num hardware permanentemente (mouses, teclados...)
+.
+Drivers= tipo de software
+.
+Função= conectar seu sistema operacional à dispositivos eletrônicos (windows, linux, mac...)
+.
+Sistema Operacional= gerencia todos os elementos citados acima
